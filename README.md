@@ -1,2 +1,2 @@
 # PDF_to_CSV_graph_maker
-A web app where you can download any pdf file you want and extract the table from that pdf. You can also trun that table into a graph of some sort and download it.
+A website where you can download any pdf file you want and extract the table from that pdf (I cant release this website because of tabula for some reason and i am working on that, but everything works well as a local file). The extracted table is turned into a csv file which is useful for program to make some graphs. You can also turn that table into a graph of some sort and download it.
